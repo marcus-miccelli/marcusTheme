@@ -3,9 +3,21 @@
   "displayName": "Marcus Dark",
   "description": "A near-black, low-glare VS Code theme with crisp text and restrained, saturated syntax colours.",
   "version": "1.0.0",
-  "publisher": "marcus",
+  "publisher": "marcus-miccelli",
   "license": "MIT",
   "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcus-miccelli/marcusTheme.git"
+  },
+  "homepage": "https://github.com/marcus-miccelli/marcusTheme#readme",
+  "bugs": {
+    "url": "https://github.com/marcus-miccelli/marcusTheme/issues"
+  },
+  "galleryBanner": {
+    "color": "#060708",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
