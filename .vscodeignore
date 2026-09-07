@@ -1,0 +1,7 @@
+.git/**
+.openai/**
+.vscode/**
+node_modules/**
+*.vsix
+.gitattributes
+.gitignore

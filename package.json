@@ -1,0 +1,37 @@
+{
+  "name": "marcus-dark",
+  "displayName": "Marcus Dark",
+  "description": "A near-black, low-glare VS Code theme with crisp text and restrained, saturated syntax colours.",
+  "version": "1.0.0",
+  "publisher": "marcus",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "near black",
+    "low glare",
+    "theme",
+    "ibm plex mono"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Marcus Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/marcus-dark-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "marcus-seti",
+        "label": "Marcus Seti",
+        "path": "./icons/marcus-seti-icon-theme.json"
+      }
+    ]
+  }
+}
