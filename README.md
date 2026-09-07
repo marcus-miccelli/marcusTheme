@@ -1,13 +1,9 @@
 # Marcus Dark
 
-A near-black VS Code theme for long sessions—low glare, quiet surfaces, readable text, and saturated syntax colour where it matters.
-
-![Marcus Dark workbench preview](./media/marcus-dark-workbench.png)
+A near-black VS Code theme for long sessions—low glare, quiet surfaces, readable text, and saturated syntax colour.
 
 ## Designed to stay out of the way
 
-- **Near-black, not high-contrast.** Editor and terminal surfaces sit at `#060708`, with darker navigation and restrained separators.
-- **Clear syntax hierarchy.** Functions, keywords, types, constants, numbers, strings, and properties stay visibly distinct without drifting into pastel tones.
 - **Purposeful interaction states.** Hovered, selected, focused, and active elements use separate surface levels instead of stacked outlines.
 - **A companion icon theme.** Marcus Seti retains familiar file glyphs while lifting their colour and clarity against the dark Explorer.
 - **Built around IBM Plex Mono.** The theme works with any monospace font, but its spacing and readability were tuned with IBM Plex Mono in mind.
